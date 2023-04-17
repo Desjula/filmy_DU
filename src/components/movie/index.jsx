@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom";
 
 export const Movie = () => {
   const { id } = useParams();
+
   const movie = movies.find((movie) => movie.id === id);
 
   if (!movie) {

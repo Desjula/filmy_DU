@@ -1,6 +1,6 @@
 export const movies = [
   {
-    id: 1,
+    id: "1",
     title: 'Pulp Fiction',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/pulp-fiction.jpg',
     year: 1994,
@@ -28,7 +28,7 @@ export const movies = [
     ],
   },
   {
-    id: 2,
+    id: "2",
     title: '1917',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/1917.jpg',
     year: 2019,
@@ -56,7 +56,7 @@ export const movies = [
     ],
   },
   {
-    id: 3,
+    id: "3",
     title: 'La La Land',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/la-la-land.jpg',
     year: 2016,
@@ -84,7 +84,7 @@ export const movies = [
     ],
   },
   {
-    id: 4,
+    id: "4",
     title: 'Inception',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/inception.jpg',
     year: 2010,
@@ -112,7 +112,7 @@ export const movies = [
     ],
   },
   {
-    id: 5,
+    id: "5",
     title: 'Guardians of the Galaxy',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/guardians-of-the-galaxy.jpg',
     year: 2014,
@@ -144,7 +144,7 @@ export const movies = [
     ],
   },
   {
-    id: 6,
+    id: "6",
     title: 'The Lion King',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/lion-king.jpg',
     year: 1994,
@@ -168,7 +168,7 @@ export const movies = [
     ],
   },
   {
-    id: 7,
+    id: "7",
     title: 'The Aviator',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/aviator.jpg',
     year: 2004,
@@ -192,7 +192,7 @@ export const movies = [
     ],
   },
   {
-    id: 8,
+    id: "8",
     title: '2001: A Space Odyssey',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/2001.jpg',
     year: 1968,
@@ -216,7 +216,7 @@ export const movies = [
     ],
   },
   {
-    id: 9,
+    id: "9",
     title: 'Parasite',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/parasite.jpg',
     year: 2019,
@@ -240,7 +240,7 @@ export const movies = [
     ],
   },
   {
-    id: 10,
+    id: "10",
     title: 'Gravity',
     poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/gravity.jpg',
     year: 2013,
